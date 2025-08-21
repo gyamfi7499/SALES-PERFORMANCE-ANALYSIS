@@ -16,22 +16,25 @@
 # OVERVIEW
 This project analyzes sales data using *Excel tools* including Power Query, Pivot Tables, KPIs, and Dashboards. The goal is to transform raw business data into actionable insights for decision-making.
 
-##  Tools and Techniques
+##  TOOLS AND TECHNOLOGIES
 
 * Microsoft Excel (Power Query, Pivot Tables, Charts, Dashboarding)
 * Excel Formulas (SUM, AVERAGE, IF, VLOOKUP, Calculated Fields)
 
-##  Data Processing
+##  DATA PROCESSING
 
 * Cleaned raw data with Power Query (removed duplicates, blanks, formatted columns)
 * Created calculated fields (Total Sales, Profit, KPIs)
 * Built Pivot Tables for aggregating sales by Region, Product, and Salesperson
 
-##  Skills Demonstrated
+##  SKILLS DEMONSTRATED
 
 ✔ Data Cleaning & Transformation
+
 ✔ Data Visualization & Dashboarding
+
 ✔ KPI Design for Business Analysis
+
 ✔ Analytical & Critical Thinking
 
 
