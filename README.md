@@ -57,13 +57,21 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 
 Based on the analysis, the following actions are recommended:
 
-* *FOCUS ON HIGH PROFIT PRODUCTS
+* FOCUS ON HIGH PROFIT PRODUCTS
 
 Electronics and laptops generate significant revenue and should be prioritized in marketing campaigns.
 
-* *IMPROVE REGIONAL SALES BALANCE
+* IMPROVE REGIONAL SALES BALANCE
 
-* *Certain regions are underperforming relative to others. Targeted investments in training, promotions, or localized campaigns could help strengthen these weaker areas.
+Certain regions are underperforming relative to others. Targeted investments in training, promotions or localized campaigns could help strengthen these weaker areas.
+
+* ## LEVERAGE TOP SALESPERSONS
+
+Recognize and reward high-performing salespersons to maintain motivation, while providing training for underperformers.
+
+* ## MONITORING COST MORE CLOSELY
+
+Since profit margins vary across categories, continuous cost monitoring is necessary to maximize profitability.
 
 
 
