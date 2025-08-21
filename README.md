@@ -1,33 +1,33 @@
 # SALES PERFORMANCE ANALYSIS
 #  TABLE OF CONTENT
-[OVERVIEW](##OVERVIEW)
+[OVERVIEW](#OVERVIEW)
 
-[TOOLS_AND_TECHNOLOGIES](##TOOLS_AND_TECHNOLOGIES)
+[TOOLS_AND_TECHNOLOGIES](#TOOLS-AND-TECHNOLOGIES)
 
-[DATA PROCESSING](##DATA_PROCESSING)
+[DATA PROCESSING](#DATA-PROCESSING)
 
-[SKILLS DEMOSTRATED](##SKILLS_DEMONSTRATED)
+[SKILLS DEMOSTRATED](#SKILLS-DEMONSTRATED)
 
-[OBJECTIVES_AND_BUSINESS_PROBLEM](##OBJECTIVES_AND_BUSINESS_PROBLEM)
+[OBJECTIVES_AND_BUSINESS_PROBLEM](#OBJECTIVES-AND-BUSINESS_PROBLEM)
 
-[ANALYTICAL_THOUGHTS_AND_FRAMES](##ANALYTICAL_THOUGHS_AND_FRAMES)
+[ANALYTICAL_THOUGHTS_AND_FRAMES](#ANALYTICAL-THOUGHS-AND-FRAMES)
 
 
-## OVERVIEW
+# OVERVIEW
 This project analyzes sales data using *Excel tools* including Power Query, Pivot Tables, KPIs, and Dashboards. The goal is to transform raw business data into actionable insights for decision-making.
 
-##  TOOLS AND TECHNOLOGIES
+#  TOOLS AND TECHNOLOGIES
 
 * Microsoft Excel (Power Query, Pivot Tables, Charts, Dashboarding)
 * Excel Formulas (SUM, AVERAGE, IF, VLOOKUP, Calculated Fields)
 
-##  DATA PROCESSING
+#  DATA PROCESSING
 
 * Cleaned raw data with Power Query (removed duplicates, blanks, formatted columns)
 * Created calculated fields (Total Sales, Profit, KPIs)
 * Built Pivot Tables for aggregating sales by Region, Product, and Salesperson
 
-##  SKILLS DEMONSTRATED
+#  SKILLS DEMONSTRATED
 
 * Data Cleaning And Transformation
 
@@ -38,7 +38,7 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 * Analytical And Critical Thinking
 
 
-##  OBJECTIVES AND BUSINESS PROBLEMS
+#  OBJECTIVES AND BUSINESS PROBLEMS
 
 * Track sales and profit across regions and products
 * Identify top-performing products & salespersons
@@ -46,14 +46,14 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 * Provide an interactive dashboard for quick decision-making
 
 
-##  ANALYTICAL THOUGHTS AND FRAMES
+#  ANALYTICAL THOUGHTS AND FRAMES
 
 * *Descriptive Analytics* → Summarizing sales & profits
 * *Diagnostic Analytics* → Identifying top/low performers
 * *Prescriptive Insights* → Suggesting strategies to improve sales performance
 
 
-## RECOMMENDATIONS
+# RECOMMENDATIONS
 
 Based on this analysis, the following actions are recommended:
 
@@ -73,7 +73,7 @@ Recognize and reward high-performing salespersons to maintain motivation, while 
 
 Since profit margins vary across categories, continuous cost monitoring is necessary to maximize profitability.
 
-## CONCLUSION
+# CONCLUSION
 
 This project showcases the transformation of raw sales data into actionable business insights through Power Query, Pivot Tables, and interactive Dashboards. By examining sales performance across regions, products, and salespersons, the analysis highlights key strengths such as top-selling products and high-performing Sales Person, while also uncovering challenges like underperforming regions and cost management gaps.
 
