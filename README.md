@@ -29,13 +29,13 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 
 ##  SKILLS DEMONSTRATED
 
-✔ Data Cleaning & Transformation
+* Data Cleaning & Transformation
 
-✔ Data Visualization & Dashboarding
+* Data Visualization & Dashboarding
 
-✔ KPI Design for Business Analysis
+* KPI Design for Business Analysis
 
-✔ Analytical & Critical Thinking
+* Analytical & Critical Thinking
 
 
 ##  Objectives & Business Problems Solved
@@ -46,7 +46,7 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 * Provide an interactive dashboard for quick decision-making
 
 
-## 🔹 Analytical Thoughts & Framework
+##  Analytical Thoughts & Framework
 
 * *Descriptive Analytics* → Summarizing sales & profits
 * *Diagnostic Analytics* → Identifying top/low performers
