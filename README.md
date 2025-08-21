@@ -24,10 +24,15 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 #  DATA PROCESSING
 
 * Cleaned raw data with Power Query (removed duplicates, blanks, formatted columns)
-* <img width="923" height="374" alt="image" src="https://github.com/user-attachments/assets/571501b1-2074-4f83-8c41-1509b3c305eb" />
+* <img width="911" height="383" alt="image" src="https://github.com/user-attachments/assets/b9343b19-da56-40f4-9149-f63ce2955a74" />
+
 
 * Created calculated fields (Total Sales, Profit, KPIs)
+* <img width="418" height="37" alt="image" src="https://github.com/user-attachments/assets/96ef584f-0c9e-454f-8ef1-a67747615f26" />
+
 * Built Pivot Tables for aggregating sales by Region, Product, and Salesperson
+* <img width="791" height="244" alt="image" src="https://github.com/user-attachments/assets/b2045067-7fdc-411d-a4a8-7ac0a49068c1" />
+
 
 #  SKILLS DEMONSTRATED
 
