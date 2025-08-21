@@ -75,7 +75,7 @@ Since profit margins vary across categories, continuous cost monitoring is neces
 
 ## CONCLUSION
 
-This project showcases the transformation of raw sales data into actionable business insights through Power Query, Pivot Tables, and interactive Dashboards. By examining sales performance across regions, products, and salespersons, the analysis highlights key strengths such as top-selling products and high-performing sales Person, while also uncovering challenges like underperforming regions and cost management gaps.
+This project showcases the transformation of raw sales data into actionable business insights through Power Query, Pivot Tables, and interactive Dashboards. By examining sales performance across regions, products, and salespersons, the analysis highlights key strengths such as top-selling products and high-performing Sales Person, while also uncovering challenges like underperforming regions and cost management gaps.
 
 
 
