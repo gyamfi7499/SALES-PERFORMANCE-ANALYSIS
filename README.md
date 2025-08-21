@@ -52,3 +52,18 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 * *Diagnostic Analytics* → Identifying top/low performers
 * *Prescriptive Insights* → Suggesting strategies to improve sales performance
 
+
+## RECOMMENDATIONS
+
+Based on the analysis, the following actions are recommended:
+
+* *FOCUS ON HIGH PROFIT PRODUCTS
+
+Electronics and laptops generate significant revenue and should be prioritized in marketing campaigns.
+
+* *IMPROVE REGIONAL SALES BALANCE
+
+* *Certain regions are underperforming relative to others. Targeted investments in training, promotions, or localized campaigns could help strengthen these weaker areas.
+
+
+
