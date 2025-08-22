@@ -12,6 +12,11 @@
 
 [ANALYTICAL_THOUGHTS_AND_FRAMES](#ANALYTICAL-THOUGHS-AND-FRAMES)
 
+[ROCOMMENDATIONS](#ROCOMMENDATIONS)
+
+[CONCLUSION](#CONCLUSION) 
+
+
 
 # OVERVIEW
 This project analyzes sales data using *Excel tools* including Power Query, Pivot Tables, KPIs, and Dashboards. The goal is to transform raw business data into actionable insights for decision-making.
