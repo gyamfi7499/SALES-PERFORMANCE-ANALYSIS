@@ -35,7 +35,8 @@ This project analyzes sales data using *Excel tools* including Power Query, Pivo
 * <img width="456" height="34" alt="image" src="https://github.com/user-attachments/assets/c1cdcc28-1c56-4c61-a109-1e8d5613651c" />
 
 * Built Pivot Tables for aggregating sales by Region, Product, and Salesperson
-* <img width="791" height="244" alt="image" src="https://github.com/user-attachments/assets/b2045067-7fdc-411d-a4a8-7ac0a49068c1" />
+* <img width="659" height="358" alt="image" src="https://github.com/user-attachments/assets/32046edf-8e29-40c5-9cd5-6c08b1a4dadd" />
+
 
 
 #  SKILLS DEMONSTRATED
